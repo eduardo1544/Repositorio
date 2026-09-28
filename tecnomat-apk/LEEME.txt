@@ -1,0 +1,6 @@
+COMO OBTENER EL APK
+Opcion A (sin instalar nada): sube esta carpeta a un repo nuevo de GitHub -> pestana Actions ->
+  "Build APK" -> al terminar, descarga el artefacto TecomatTest-apk (app-debug.apk).
+Opcion B: abre la carpeta con Android Studio -> Build > Build APK(s).
+Instalar en el movil: copia el .apk y permite "instalar apps de origen desconocido".
+Para cambiar la app: reemplaza app/src/main/assets/index.html.
